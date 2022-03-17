@@ -1,0 +1,44 @@
+body {
+	background-color: #dbdbdb;
+}
+.navbar {
+	color: black;
+}
+
+
+.jumbotron {
+	padding-top: 140px;
+	padding-bottom: 170px;
+	background-image: url(img/20.png);
+	background-color: #dbdbdb;
+}
+
+h4 {
+	font-size: 30px;
+}
+
+#about {
+	font-size: 20px;
+	padding-top: 140px;
+	padding-bottom: 100px;
+}
+
+#project {
+	font-size: 20px;
+	padding-top: 140px;
+	padding-bottom: 100px;
+}
+
+#contact {
+	padding-top: 140px;
+	padding-bottom: 170px;
+	background-image: url(img/20.png);
+}
+
+#contact {
+	padding-top: 140px;
+	padding-bottom: 170px;
+	background-image: url(img/20.png);
+	align-items: center;
+	align-content: center;
+}
