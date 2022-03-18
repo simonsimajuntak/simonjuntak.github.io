@@ -7,10 +7,15 @@ body {
 
 
 .jumbotron {
-	padding-top: 140px;
-	padding-bottom: 170px;
+	padding-top: 110px;
+	padding-bottom: 150px;
 	background-image: url(img/20.png);
 	background-color: #dbdbdb;
+}
+
+.linkedin-pdf img{
+	width: 50px;
+	height: 55px;
 }
 
 h4 {
@@ -41,4 +46,8 @@ h4 {
 	background-image: url(img/20.png);
 	align-items: center;
 	align-content: center;
+}
+
+h6 {
+	font-size: 20px;
 }
